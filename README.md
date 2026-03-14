@@ -1,3 +1,3 @@
 # Nutrit
-An app to track nutritional values
-For awareness
+An app to track nutritional values for greater awareness.
+
