@@ -4,3 +4,4 @@ To track nutrition by CNN
 Uses multihead neural network
 Will use freemium model
 Will be beneficial
+So whats up
