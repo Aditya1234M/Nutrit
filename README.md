@@ -6,3 +6,4 @@ Will use freemium model
 Will be beneficial
 So whats up
 How are u
+What are u doing
