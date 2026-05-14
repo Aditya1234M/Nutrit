@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.db
+.env
+venv/
+
+# Flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/.idea/
+frontend/*.iml
+
+# TFLite model (too large for git — download from Google Drive)
+frontend/assets/multihead_food_float16.tflite
+
+# Colab checkpoints
+*.keras
+*.h5
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
